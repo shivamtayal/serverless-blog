@@ -1,7 +1,7 @@
 ---
-title: Another Beginning
+title: New Blog Post
 date: "2019-08-14T22:40:32.169Z"
-description: This is a custom description for SEO and Open Graph purposes, rather than the default generated excerpt. Simply add a description field to the frontmatter.
+description: This is a new blog post. Hello Everyone!
 ---
 
 Far far away, behind the word mountains, far from the countries Vokalia and
